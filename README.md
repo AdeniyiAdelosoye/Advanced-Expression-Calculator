@@ -49,3 +49,6 @@ Each detected indicator translates directly into programmatic syntax. Based on t
 
 ```bash
 python NCalc.py
+```
+5. Type a math expression into the application window.
+6. Click "Calculate" to evaluate the expression.
